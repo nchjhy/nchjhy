@@ -1,50 +1,55 @@
-# Where Design Meets Code 🎨💻
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=36BCF7&width=500&lines=Front-End+Developer;Aspiring+UI%2FUX+Designer;Building+Clean+%26+User-Friendly+Interfaces)](https://git.io/typing-svg)
+# Hi there! I'm Nichole 👋
+### Where Design Meets Code 💻
 
----
+&nbsp;
 
-## 👋 About Me  
-I am an aspiring **UI/UX Designer** and a **3rd-year BS Information Technology** student at **Saint Louis University**, Baguio City.  
+[![LinkedIn](https://img.shields.io/badge/Nichole%20Jhoy%20Escaño-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nichole-jhoy-esca%C3%B1o-1b4882321/) &nbsp;&nbsp;&nbsp; [![Email](https://img.shields.io/badge/your--email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njhoyescano@gmail.com)
 
-I love designing websites that are both **visually appealing** and **user-friendly**.  
-My goal is to create functional and beautiful websites that effectively convey a message.  
-If you’re looking for someone who values both **form and function**, feel free to reach out through the **Connect** section.
+&nbsp;
 
----
-
-## 🛠 Tech Stack  
-
-**Languages & Frameworks:**  
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=coffeescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+</div>
 
 ---
 
-## ⚙ Tools  
+## 🌟 About Me
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+I'm a **4th-year BS Information Technology** student at **Saint Louis University** in Baguio City. I aim to bridge the gap between beautiful design and functional code, creating digital experiences that not only look stunning but truly serve users' needs.
 
----
-
-## 📊 GitHub Overview
-
-![Nikoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_title=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+**What drives me:**
+- 🎯 Crafting intuitive user experiences that solve real problems
+- 🚀 Building responsive, accessible web applications
+- 📚 Continuously learning and evolving with technology
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your-email@example.com)
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="45" height="45"/>
+ 
+  
+</p>
+
+**Database & Tools:**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+</p>
 
 ---
 
-*"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+<div align="center">
+  <i>✨ "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs ✨</i>
+</div>
