@@ -5,7 +5,7 @@
 
 &nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/Nichole%20Jhoy%20Escaño-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nichole-jhoy-esca%C3%B1o-1b4882321/) &nbsp;&nbsp;&nbsp; [![Email](https://img.shields.io/badge/njhoyescano@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njhoyescano@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Nichole%20Jhoy%20Escaño-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nchljhy/) &nbsp;&nbsp;&nbsp; [![Email](https://img.shields.io/badge/njhoyescano@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njhoyescano@gmail.com)
 
 &nbsp;
 
