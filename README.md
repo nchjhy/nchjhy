@@ -18,9 +18,10 @@
 I'm a **4th-year BS Information Technology** student at **Saint Louis University** in Baguio City. I aim to bridge the gap between beautiful design and functional code, creating digital experiences that not only look stunning but truly serve users' needs.
 
 **What drives me:**
-- 🎯 Crafting intuitive user experiences that solve real problems
-- 🚀 Building responsive, accessible web applications
-- 📚 Continuously learning and evolving with technology
+-  Crafting intuitive user experiences that solve real problems
+-  Building responsive, accessible web applications
+- Practicing wireframing, prototyping, and design systems
+-  Continuously learning and evolving with technology
 
 ---
 
